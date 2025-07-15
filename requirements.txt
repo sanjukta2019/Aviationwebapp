@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+requests
+openai
+python-dotenv
+jinja2
+aiofiles
+pydantic
+httpx             # For async API calls
+beautifulsoup4    # For scraping from websites (if not just using APIs)
+pandas            # For advanced data analysis (if needed)
