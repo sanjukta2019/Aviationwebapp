@@ -42,6 +42,7 @@ Built-in SQLite database with ORM modeling via SQLAlchemy
     uvicorn main:app --reload
     6. May run the command in bash to load the flights data
     curl -X POST http://localhost:8000/flights
+    7. May load the index.html file in browser for output
 
 
 
